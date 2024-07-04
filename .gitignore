@@ -1,0 +1,8 @@
+.idea/
+venv/ 
+__pycached__/
+.github/
+.sonarlint/
+SonarToken/
+sonar-project.properties/
+.vscode/
