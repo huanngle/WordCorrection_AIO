@@ -6,3 +6,4 @@ __pycached__/
 SonarToken/
 sonar-project.properties/
 .vscode/
+data/
